@@ -54,13 +54,7 @@ This React application leverages Google's Gemini AI to analyze voice recordings 
 
 ### Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/danielrosehill/AI-Personal-EQ-Creator.git
-   cd AI-Personal-EQ-Creator
-   ```
-
-2. Install dependencies:
+1. Install dependencies:
    ```bash
    npm install
    ```
