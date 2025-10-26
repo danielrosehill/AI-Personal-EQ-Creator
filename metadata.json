@@ -1,0 +1,7 @@
+{
+  "name": "EQ Template Creator",
+  "description": "An intelligent audio engineering assistant that analyzes your voice using Gemini to generate custom EQ presets. Upload or record an audio sample, and receive a professional EQ configuration and a visual analysis of your vocal frequencies.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
